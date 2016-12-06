@@ -1,0 +1,10 @@
+Riadenie robotických systémov pomocou giest
+Rôzne gestá
+Komunikácia robot človek
+Reprezentácia obrazu Spektrum,RGB,CMYK,PIXEL
+Predspracovanie obrazu-rozpoznávanie predspracovanie, redukcia šumu, detekcia hrán, segmentácia obrazu, detekcia pokožky pomocou RGB,HSV,HSL,HSI,TSL,YCbCr
+Modelovaie pokožky
+Normalizácia giest
+Rozpoznávanie giest
+Abeceda giest pre ruku
+Abeceda giest pre telo
